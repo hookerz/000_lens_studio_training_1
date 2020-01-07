@@ -3,7 +3,7 @@
     "document_id": "a2r6nqfarjsBj0OsbAvx",
     "original_document_id": "a2r6nqfarjsBj0OsbAvx",
     "version": "20",
-    "lastChanged": "1578015579181",
+    "lastChanged": "1578358517107",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -30,53 +30,6 @@
             "collapsedList": [
                 [
                     [
-                        "Default Textures"
-                    ],
-                    [
-                        "Default Textures",
-                        "Base"
-                    ],
-                    [
-                        "Default Textures",
-                        "MaterialParams"
-                    ],
-                    [
-                        "Default Textures",
-                        "Normal"
-                    ],
-                    [
-                        "Default Textures",
-                        "Render Target"
-                    ],
-                    [
-                        "Default Textures",
-                        "echopark_diff"
-                    ],
-                    [
-                        "Default Textures",
-                        "echopark_spec"
-                    ],
-                    [
-                        "Default Textures",
-                        "empty"
-                    ],
-                    [
-                        "Default Textures",
-                        "white"
-                    ],
-                    [
-                        "Example Textures [REMOVE_ME]",
-                        "heart"
-                    ],
-                    [
-                        "Example Textures [REMOVE_ME]",
-                        "old_paper_post_effect"
-                    ],
-                    [
-                        "Example Textures [REMOVE_ME]",
-                        "space_background"
-                    ],
-                    [
                         "Materials"
                     ],
                     [
@@ -94,6 +47,9 @@
                     [
                         "Materials",
                         "TileScrollingMat"
+                    ],
+                    [
+                        "Scripts"
                     ],
                     [
                         "Scripts",
@@ -129,6 +85,62 @@
                     [
                         "Segmentation Textures",
                         "Sky Segmentation"
+                    ],
+                    [
+                        "Textures",
+                        "Default"
+                    ],
+                    [
+                        "Textures",
+                        "Default",
+                        "Base"
+                    ],
+                    [
+                        "Textures",
+                        "Default",
+                        "MaterialParams"
+                    ],
+                    [
+                        "Textures",
+                        "Default",
+                        "Normal"
+                    ],
+                    [
+                        "Textures",
+                        "Default",
+                        "Render Target"
+                    ],
+                    [
+                        "Textures",
+                        "Default",
+                        "echopark_diff"
+                    ],
+                    [
+                        "Textures",
+                        "Default",
+                        "echopark_spec"
+                    ],
+                    [
+                        "Textures",
+                        "Default",
+                        "empty"
+                    ],
+                    [
+                        "Textures",
+                        "Default",
+                        "white"
+                    ],
+                    [
+                        "Textures",
+                        "heart"
+                    ],
+                    [
+                        "Textures",
+                        "old_paper_post_effect"
+                    ],
+                    [
+                        "Textures",
+                        "space_background"
                     ]
                 ]
             ]
@@ -175,7 +187,7 @@
             "preview_videos_project_config": {
                 "back_preview_id": "bundle:PreviewPresets\/Videos\/Beach.webm",
                 "back_preview_is_favorite": "false",
-                "front_preview_id": "bundle:PreviewPresets\/Videos\/Idle Person 2.webm",
+                "front_preview_id": "bundle:PreviewPresets\/Videos\/Smile Person 1.webm",
                 "front_preview_is_favorite": "false",
                 "spectacles_preview_id": "bundle:PreviewPresets\/Videos\/Climbing\/Climbing.webm",
                 "spectacles_preview_is_favorite": "false"
@@ -635,15 +647,15 @@
                 "pathes": [
                     {
                         "k": "1",
-                        "v": "Example Textures [REMOVE_ME]"
+                        "v": "Textures"
                     },
                     {
                         "k": "2",
-                        "v": "Example Textures [REMOVE_ME]\/space_background.png"
+                        "v": "Textures\/space_background.png"
                     },
                     {
                         "k": "4",
-                        "v": "Example Textures [REMOVE_ME]\/heart.png"
+                        "v": "Textures\/heart.png"
                     },
                     {
                         "k": "5",
@@ -667,35 +679,35 @@
                     },
                     {
                         "k": "10",
-                        "v": "Default Textures"
+                        "v": "Textures\/Default"
                     },
                     {
                         "k": "11",
-                        "v": "Default Textures\/echopark_diff.png"
+                        "v": "Textures\/Default\/echopark_diff.png"
                     },
                     {
                         "k": "12",
-                        "v": "Default Textures\/echopark_spec.png"
+                        "v": "Textures\/Default\/echopark_spec.png"
                     },
                     {
                         "k": "13",
-                        "v": "Default Textures\/empty.png"
+                        "v": "Textures\/Default\/empty.png"
                     },
                     {
                         "k": "14",
-                        "v": "Default Textures\/Base.png"
+                        "v": "Textures\/Default\/Base.png"
                     },
                     {
                         "k": "15",
-                        "v": "Default Textures\/MaterialParams.png"
+                        "v": "Textures\/Default\/MaterialParams.png"
                     },
                     {
                         "k": "16",
-                        "v": "Default Textures\/Normal.png"
+                        "v": "Textures\/Default\/Normal.png"
                     },
                     {
                         "k": "17",
-                        "v": "Default Textures\/white.png"
+                        "v": "Textures\/Default\/white.png"
                     },
                     {
                         "k": "18",
@@ -711,7 +723,7 @@
                     },
                     {
                         "k": "21",
-                        "v": "Example Textures [REMOVE_ME]\/old_paper_post_effect.png"
+                        "v": "Textures\/old_paper_post_effect.png"
                     },
                     {
                         "k": "652",
@@ -786,15 +798,119 @@
                     {
                         "k": "652",
                         "v": "3241f0f803f473ae6d4c7b4635a6a29d"
+                    },
+                    {
+                        "k": "653",
+                        "v": "9810f5a6155e16c867faf9415da24b73"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2020-01-02T16:28:25",
+                        "lastModified": "2020-01-06T16:50:02",
                         "name": "Public",
-                        "hash": "15604d46978b3e85f6e0ee51957ad618",
+                        "hash": "41ebfe57ac99fcc28e4ce8a96ae36f33",
                         "children": [
+                            {
+                                "isFolder": "true",
+                                "lastModified": "2020-01-06T16:54:51",
+                                "name": "Textures",
+                                "hash": "265f7e08c4be3cca0d1f1763e4c9a21b",
+                                "children": [
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-12-11T14:46:11",
+                                        "name": "old_paper_post_effect.png",
+                                        "hash": "3acd9c68c33b25e370568c8e3ca488c7",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "true",
+                                        "lastModified": "2020-01-02T16:28:25",
+                                        "name": "Default",
+                                        "hash": "76f03cc87c33512dbab8bb5f9e84d0ef",
+                                        "children": [
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-12-11T14:46:11",
+                                                "name": "echopark_diff.png",
+                                                "hash": "671afbc1d6810060ccbaac866a91cfa1",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-12-11T14:46:11",
+                                                "name": "empty.png",
+                                                "hash": "33a67d34b6807e8d7cbd43a3d1930f5e",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-12-11T14:46:11",
+                                                "name": "echopark_spec.png",
+                                                "hash": "8e599835d0d45c5879eafb1f474469cd",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-12-11T14:46:11",
+                                                "name": "MaterialParams.png",
+                                                "hash": "af2715bddfbca2d4e72f470d285c5010",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-12-11T14:46:11",
+                                                "name": "Base.png",
+                                                "hash": "cb607d7b25a160872c49fb4d2635cc33",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-12-11T14:46:11",
+                                                "name": "Normal.png",
+                                                "hash": "8a0173d0b987e1abfebd4ef9e3304c0b",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-12-11T14:46:11",
+                                                "name": "white.png",
+                                                "hash": "960a06e2a80d46091b8215f96b633951",
+                                                "children": ""
+                                            },
+                                            {
+                                                "isFolder": "false",
+                                                "lastModified": "2019-12-11T14:46:11",
+                                                "name": "folder.lock",
+                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                                "children": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-12-11T14:46:11",
+                                        "name": "space_background.png",
+                                        "hash": "87daba2e83cda8b89532e73ab3b19542",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-12-11T14:46:11",
+                                        "name": "heart.png",
+                                        "hash": "6710d4920c2779d69d1ed688105767f7",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2019-12-11T14:46:11",
+                                        "name": "folder.lock",
+                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
+                                        "children": ""
+                                    }
+                                ]
+                            },
                             {
                                 "isFolder": "true",
                                 "lastModified": "2020-01-02T16:28:25",
@@ -827,106 +943,6 @@
                                         "lastModified": "2020-01-02T16:12:47",
                                         "name": "TileScrollingMat.lsmat",
                                         "hash": "8bc403a5f28dfda360da69844e24b339",
-                                        "children": ""
-                                    },
-                                    {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-12-11T14:46:11",
-                                        "name": "folder.lock",
-                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
-                                        "children": ""
-                                    }
-                                ]
-                            },
-                            {
-                                "isFolder": "true",
-                                "lastModified": "2020-01-02T16:28:25",
-                                "name": "Example Textures [REMOVE_ME]",
-                                "hash": "f3e5d602801dea60a3e10f15a726b738",
-                                "children": [
-                                    {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-12-11T14:46:11",
-                                        "name": "old_paper_post_effect.png",
-                                        "hash": "3acd9c68c33b25e370568c8e3ca488c7",
-                                        "children": ""
-                                    },
-                                    {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-12-11T14:46:11",
-                                        "name": "space_background.png",
-                                        "hash": "87daba2e83cda8b89532e73ab3b19542",
-                                        "children": ""
-                                    },
-                                    {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-12-11T14:46:11",
-                                        "name": "heart.png",
-                                        "hash": "6710d4920c2779d69d1ed688105767f7",
-                                        "children": ""
-                                    },
-                                    {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-12-11T14:46:11",
-                                        "name": "folder.lock",
-                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
-                                        "children": ""
-                                    }
-                                ]
-                            },
-                            {
-                                "isFolder": "true",
-                                "lastModified": "2020-01-02T16:28:25",
-                                "name": "Default Textures",
-                                "hash": "76f03cc87c33512dbab8bb5f9e84d0ef",
-                                "children": [
-                                    {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-12-11T14:46:11",
-                                        "name": "echopark_diff.png",
-                                        "hash": "671afbc1d6810060ccbaac866a91cfa1",
-                                        "children": ""
-                                    },
-                                    {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-12-11T14:46:11",
-                                        "name": "empty.png",
-                                        "hash": "33a67d34b6807e8d7cbd43a3d1930f5e",
-                                        "children": ""
-                                    },
-                                    {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-12-11T14:46:11",
-                                        "name": "echopark_spec.png",
-                                        "hash": "8e599835d0d45c5879eafb1f474469cd",
-                                        "children": ""
-                                    },
-                                    {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-12-11T14:46:11",
-                                        "name": "MaterialParams.png",
-                                        "hash": "af2715bddfbca2d4e72f470d285c5010",
-                                        "children": ""
-                                    },
-                                    {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-12-11T14:46:11",
-                                        "name": "Base.png",
-                                        "hash": "cb607d7b25a160872c49fb4d2635cc33",
-                                        "children": ""
-                                    },
-                                    {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-12-11T14:46:11",
-                                        "name": "Normal.png",
-                                        "hash": "8a0173d0b987e1abfebd4ef9e3304c0b",
-                                        "children": ""
-                                    },
-                                    {
-                                        "isFolder": "false",
-                                        "lastModified": "2019-12-11T14:46:11",
-                                        "name": "white.png",
-                                        "hash": "960a06e2a80d46091b8215f96b633951",
                                         "children": ""
                                     },
                                     {
@@ -1008,7 +1024,7 @@
                 "additional": "",
                 "resources": [
                     {
-                        "name": "Example Textures [REMOVE_ME]",
+                        "name": "Textures",
                         "type": "0",
                         "subtype": "-1",
                         "resourceId": "-1",
@@ -1058,6 +1074,138 @@
                                 "publicId": "21",
                                 "source": "",
                                 "additional": ""
+                            },
+                            {
+                                "name": "Default",
+                                "type": "0",
+                                "subtype": "-1",
+                                "resourceId": "-1",
+                                "dependency": "0",
+                                "uid": "-1:-1",
+                                "fileId": "18446744073709551615",
+                                "originalId": "18446744073709551615",
+                                "publicId": "10",
+                                "source": "",
+                                "additional": "",
+                                "resources": [
+                                    {
+                                        "name": "Device Camera Texture",
+                                        "type": "1",
+                                        "subtype": "3",
+                                        "resourceId": "2",
+                                        "dependency": "0",
+                                        "uid": "2:2",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "echopark_diff",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "8",
+                                        "dependency": "0",
+                                        "uid": "1517446348230286:84828",
+                                        "fileId": "1",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "11",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "echopark_spec",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "9",
+                                        "dependency": "0",
+                                        "uid": "1517446348234137:84840",
+                                        "fileId": "2",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "12",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Render Target",
+                                        "type": "1",
+                                        "subtype": "1",
+                                        "resourceId": "17",
+                                        "dependency": "0",
+                                        "uid": "1534543033794497:2027",
+                                        "fileId": "18446744073709551615",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "18446744073709551615",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "empty",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "30",
+                                        "dependency": "0",
+                                        "uid": "1534548413451520:38273",
+                                        "fileId": "4",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "13",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Base",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "81",
+                                        "dependency": "0",
+                                        "uid": "1536693201317919:71139",
+                                        "fileId": "7",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "14",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "MaterialParams",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "82",
+                                        "dependency": "0",
+                                        "uid": "1536693201320484:71151",
+                                        "fileId": "8",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "15",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "Normal",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "83",
+                                        "dependency": "0",
+                                        "uid": "1536693201323863:71163",
+                                        "fileId": "9",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "16",
+                                        "source": "",
+                                        "additional": ""
+                                    },
+                                    {
+                                        "name": "white",
+                                        "type": "1",
+                                        "subtype": "9",
+                                        "resourceId": "132",
+                                        "dependency": "0",
+                                        "uid": "1536866643977081:319832",
+                                        "fileId": "11",
+                                        "originalId": "18446744073709551615",
+                                        "publicId": "17",
+                                        "source": "",
+                                        "additional": ""
+                                    }
+                                ]
                             }
                         ]
                     },
@@ -1123,138 +1271,6 @@
                                 "fileId": "15",
                                 "originalId": "29",
                                 "publicId": "9",
-                                "source": "",
-                                "additional": ""
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Default Textures",
-                        "type": "0",
-                        "subtype": "-1",
-                        "resourceId": "-1",
-                        "dependency": "0",
-                        "uid": "-1:-1",
-                        "fileId": "18446744073709551615",
-                        "originalId": "18446744073709551615",
-                        "publicId": "10",
-                        "source": "",
-                        "additional": "",
-                        "resources": [
-                            {
-                                "name": "Device Camera Texture",
-                                "type": "1",
-                                "subtype": "3",
-                                "resourceId": "2",
-                                "dependency": "0",
-                                "uid": "2:2",
-                                "fileId": "18446744073709551615",
-                                "originalId": "18446744073709551615",
-                                "publicId": "18446744073709551615",
-                                "source": "",
-                                "additional": ""
-                            },
-                            {
-                                "name": "echopark_diff",
-                                "type": "1",
-                                "subtype": "9",
-                                "resourceId": "8",
-                                "dependency": "0",
-                                "uid": "1517446348230286:84828",
-                                "fileId": "1",
-                                "originalId": "18446744073709551615",
-                                "publicId": "11",
-                                "source": "",
-                                "additional": ""
-                            },
-                            {
-                                "name": "echopark_spec",
-                                "type": "1",
-                                "subtype": "9",
-                                "resourceId": "9",
-                                "dependency": "0",
-                                "uid": "1517446348234137:84840",
-                                "fileId": "2",
-                                "originalId": "18446744073709551615",
-                                "publicId": "12",
-                                "source": "",
-                                "additional": ""
-                            },
-                            {
-                                "name": "Render Target",
-                                "type": "1",
-                                "subtype": "1",
-                                "resourceId": "17",
-                                "dependency": "0",
-                                "uid": "1534543033794497:2027",
-                                "fileId": "18446744073709551615",
-                                "originalId": "18446744073709551615",
-                                "publicId": "18446744073709551615",
-                                "source": "",
-                                "additional": ""
-                            },
-                            {
-                                "name": "empty",
-                                "type": "1",
-                                "subtype": "9",
-                                "resourceId": "30",
-                                "dependency": "0",
-                                "uid": "1534548413451520:38273",
-                                "fileId": "4",
-                                "originalId": "18446744073709551615",
-                                "publicId": "13",
-                                "source": "",
-                                "additional": ""
-                            },
-                            {
-                                "name": "Base",
-                                "type": "1",
-                                "subtype": "9",
-                                "resourceId": "81",
-                                "dependency": "0",
-                                "uid": "1536693201317919:71139",
-                                "fileId": "7",
-                                "originalId": "18446744073709551615",
-                                "publicId": "14",
-                                "source": "",
-                                "additional": ""
-                            },
-                            {
-                                "name": "MaterialParams",
-                                "type": "1",
-                                "subtype": "9",
-                                "resourceId": "82",
-                                "dependency": "0",
-                                "uid": "1536693201320484:71151",
-                                "fileId": "8",
-                                "originalId": "18446744073709551615",
-                                "publicId": "15",
-                                "source": "",
-                                "additional": ""
-                            },
-                            {
-                                "name": "Normal",
-                                "type": "1",
-                                "subtype": "9",
-                                "resourceId": "83",
-                                "dependency": "0",
-                                "uid": "1536693201323863:71163",
-                                "fileId": "9",
-                                "originalId": "18446744073709551615",
-                                "publicId": "16",
-                                "source": "",
-                                "additional": ""
-                            },
-                            {
-                                "name": "white",
-                                "type": "1",
-                                "subtype": "9",
-                                "resourceId": "132",
-                                "dependency": "0",
-                                "uid": "1536866643977081:319832",
-                                "fileId": "11",
-                                "originalId": "18446744073709551615",
-                                "publicId": "17",
                                 "source": "",
                                 "additional": ""
                             }
