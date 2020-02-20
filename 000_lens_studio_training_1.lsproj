@@ -3,7 +3,7 @@
     "document_id": "a2r6nqfarjsBj0OsbAvx",
     "original_document_id": "a2r6nqfarjsBj0OsbAvx",
     "version": "20",
-    "lastChanged": "1578358517107",
+    "lastChanged": "1582226205420",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -47,9 +47,6 @@
                     [
                         "Materials",
                         "TileScrollingMat"
-                    ],
-                    [
-                        "Scripts"
                     ],
                     [
                         "Scripts",
@@ -187,7 +184,7 @@
             "preview_videos_project_config": {
                 "back_preview_id": "bundle:PreviewPresets\/Videos\/Beach.webm",
                 "back_preview_is_favorite": "false",
-                "front_preview_id": "bundle:PreviewPresets\/Videos\/Smile Person 1.webm",
+                "front_preview_id": "bundle:PreviewPresets\/Videos\/Open Mouth Person 1.webm",
                 "front_preview_is_favorite": "false",
                 "spectacles_preview_id": "bundle:PreviewPresets\/Videos\/Climbing\/Climbing.webm",
                 "spectacles_preview_is_favorite": "false"
@@ -797,11 +794,19 @@
                     },
                     {
                         "k": "652",
-                        "v": "3241f0f803f473ae6d4c7b4635a6a29d"
+                        "v": "15e144cfb8b6139c8dececeb0a377d1f"
                     },
                     {
                         "k": "653",
-                        "v": "9810f5a6155e16c867faf9415da24b73"
+                        "v": "8eda072aa715b0104489a6b186b67955"
+                    },
+                    {
+                        "k": "654",
+                        "v": "3d59119ae596be15ba61c34fc7ffbabd"
+                    },
+                    {
+                        "k": "655",
+                        "v": "5fe4b62d8f47bff694cf1aabb85880a9"
                     }
                 ],
                 "publicState": {
@@ -809,11 +814,11 @@
                         "isFolder": "true",
                         "lastModified": "2020-01-06T16:50:02",
                         "name": "Public",
-                        "hash": "41ebfe57ac99fcc28e4ce8a96ae36f33",
+                        "hash": "04ea6be093276c56849f03909ea2a626",
                         "children": [
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-01-06T16:54:51",
+                                "lastModified": "2020-02-20T11:16:30",
                                 "name": "Textures",
                                 "hash": "265f7e08c4be3cca0d1f1763e4c9a21b",
                                 "children": [
@@ -956,9 +961,9 @@
                             },
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-01-02T17:32:50",
+                                "lastModified": "2020-02-20T11:15:24",
                                 "name": "Scripts",
-                                "hash": "77a234ef51af1a2f2258dcd0d904134b",
+                                "hash": "14c758973b627013f90e9cc56cc5c402",
                                 "children": [
                                     {
                                         "isFolder": "false",
@@ -969,9 +974,9 @@
                                     },
                                     {
                                         "isFolder": "false",
-                                        "lastModified": "2020-01-02T17:18:45",
+                                        "lastModified": "2020-02-20T11:15:24",
                                         "name": "InputController.js",
-                                        "hash": "3241f0f803f473ae6d4c7b4635a6a29d",
+                                        "hash": "15e144cfb8b6139c8dececeb0a377d1f",
                                         "children": ""
                                     },
                                     {
